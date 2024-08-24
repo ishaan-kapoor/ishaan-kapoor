@@ -227,8 +227,8 @@ jobs:
         # plugin_starlists_shuffle_repositories: # optional, default is <default-value>
         # plugin_starlists_ignored: # optional, default is <default-value>
         # plugin_starlists_only: # optional, default is <default-value>
-        plugin_calendar: yes
-        plugin_calendar_limit: 0
+        plugin_calendar: no
+        # plugin_calendar_limit: 0
         plugin_achievements: no
         # plugin_achievements_threshold: # optional, default is <default-value>
         # plugin_achievements_secrets: # optional, default is <default-value>
@@ -245,7 +245,7 @@ jobs:
         # plugin_notable_types: # optional, default is <default-value>
         # plugin_notable_self: # optional, default is <default-value>
         plugin_activity: yes
-        # plugin_activity_limit: # optional, default is <default-value>
+        plugin_activity_limit: 1
         # plugin_activity_load: # optional, default is <default-value>
         # plugin_activity_days: # optional, default is <default-value>
         plugin_activity_visibility: public
