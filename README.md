@@ -69,3 +69,5 @@ Feel free to reach out or explore more about my work here:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ishaan-kapoor/count.svg" />
 </p> -->
+
+![Metrics](/github-metrics.svg)
