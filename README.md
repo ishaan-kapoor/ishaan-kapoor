@@ -1,9 +1,9 @@
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="50%"></p>
 
 ### Synopsis
 
 Ishaan is an avid learner and a python aficionado with a deep passion for technology and problem-solving.
 Driven by curiosity and a constant desire for growth, Ishaan is always on the lookout for new opportunities to expand his knowledge and skills.
-
 
 ### Changelog
 
@@ -41,6 +41,18 @@ Driven by curiosity and a constant desire for growth, Ishaan is always on the lo
 ----
  -->
 
+<!-- <p align="center">
+  <img alt="GitHub Stats" width="480px" src="https://github-readme-stats.vercel.app/api?username=ishaan-kapoor&show_icons=true&theme=transparent&hide_border=true" />
+  </br>
+  <img alt="Top Language" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-kapoor&theme=transparent&hide_border=true&layout=compact&langs_count=11&include_all_commits=true" />
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ishaan-kapoor/count.svg" />
+</p> -->
+
+<!-- ![Metrics](/github-metrics.svg) -->
+
 Feel free to reach out or explore more about my work here: 
 <a href="https://www.linkedin.com/in/ishaankapoor2506" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-ishaankapoor2506-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -57,17 +69,3 @@ Feel free to reach out or explore more about my work here:
  </a>
  
 </p>
-
----
-
-<!-- <p align="center">
-  <img alt="GitHub Stats" width="480px" src="https://github-readme-stats.vercel.app/api?username=ishaan-kapoor&show_icons=true&theme=transparent&hide_border=true" />
-  </br>
-  <img alt="Top Language" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-kapoor&theme=transparent&hide_border=true&layout=compact&langs_count=11&include_all_commits=true" />
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ishaan-kapoor/count.svg" />
-</p> -->
-
-![Metrics](/github-metrics.svg)
