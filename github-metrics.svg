@@ -2222,6 +2222,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2428,8 +2433,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.97503506311361 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">444</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="41.067321178120615 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">445</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3565</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2455,8 +2460,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.54892601431981 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">88</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="34.94152744630072 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">89</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/838</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -2476,15 +2481,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximize the Number of Target Nodes After Connecting Trees I</div>
-                            <div class="date">28 May 2025</div>
+                            <div class="title">Maximize the Number of Target Nodes After Connecting Trees II</div>
+                            <div class="date">29 May 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2025, 06:47:10 (timezone IST) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 06:45:06 (timezone IST) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
