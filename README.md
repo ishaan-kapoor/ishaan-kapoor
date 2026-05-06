@@ -6,8 +6,9 @@ Ishaan is an avid learner and a python aficionado with a deep passion for techno
 Driven by curiosity and a constant desire for growth, Ishaan is always on the lookout for new opportunities to expand his knowledge and skills.
 
 ### Changelog
+Today - (chore) Member of Technical Staff at D. E. Shaw.
 
-2025 - (pre-release) Upgrade to B.E. in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/)
+2025 - (chore) Upgraded to B.E. in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in/)
 
 2024 - (feature) Product Engineer at [Sprinklr](https://www.sprinklr.com/).
 
